@@ -31,4 +31,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-**Nota:** Este projeto é uma oportunidade para demonstrar suas habilidades em conteinerização de aplicações e orquestração de contêineres. Sinta-se à vontade para explorar e entre em contato se tiver alguma pergunta ou feedback!
+**Nota:** Este projeto é uma oportunidade para demonstrar minhas habilidades em conteinerização de aplicações e orquestração de contêineres. Sinta-se à vontade para explorar e entre em contato se tiver alguma pergunta ou feedback!
